@@ -92,10 +92,10 @@ const Demo = () => {
                     alt="copy_icon"
                     className="w-[40%] h-[40%] object-contain"
                   />
-                  <p className="flex-1 font-satoshi text-blue-700 font-medium text-sm truncate">
+                </div>
+                <p className="flex-1 font-satoshi text-blue-700 font-medium text-sm truncate">
                     {item.url}
                   </p>
-                </div>
 
               </div>
             ))}
